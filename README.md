@@ -5,7 +5,7 @@ MouseEyes is a Windows desktop utility that displays animated eyes which track y
 ## Official Website
 https://www.mouseeyes.com
 
-![MouseEyes demo](assets/mouseeyes-demo.gif)
+![MouseEyes demo](assets/me.gif)
 
 ## Downloads
 Official, signed Windows installers are available on the **Releases** page of this repository.
