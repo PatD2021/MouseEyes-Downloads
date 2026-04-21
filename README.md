@@ -8,6 +8,6 @@ https://www.mouseeyes.com
 ## Downloads
 Official, signed Windows installers are available on the **Releases** page of this repository.
 
-➡️ [https://github.com/MouseEyes-Downloads/MouseEyes-Downloads/releases](https://github.com/MouseEyes/MouseEyes-Downloads/releases)
+➡️ [https://github.com/MouseEyes/MouseEyes-Downloads/releases](https://github.com/MouseEyes/MouseEyes-Downloads/releases)
 
 This repository exists solely to distribute verified MouseEyes installers.
